@@ -1,5 +1,6 @@
 # link-shortener
-Made with Vue.js
+Made with Vue.js  
+Click [here](https://vuerl-shortener.netlify.app/) to see in action!
 ## Project setup
 ```
 npm install
